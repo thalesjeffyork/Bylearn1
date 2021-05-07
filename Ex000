@@ -1,0 +1,4 @@
+Dia=input('em que dia você nasceu?')
+Mes=input('em que mês você nasceu?')
+Ano=input('em qual ano você nasceu?')
+Print('você nasceu no,' dia, 'do,' , mês, 'de', ano, 'isto está correto?')
